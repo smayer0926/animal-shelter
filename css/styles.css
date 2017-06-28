@@ -37,10 +37,13 @@ body {
   text-decoration: underline;
 
 }
-p {
+/*p {
   text-align: center;
-}
+}*/
 h1 {
   text-align: center;
-
+}
+.body p {
+  text-align: center;
+  text-decoration: underline;
 }
